@@ -1,0 +1,10 @@
+body {
+  font-family: "Oleo Script", cursive;
+  text-align: center;
+  background: #a8c0ff;
+  background: linear-gradient(to right, #a8c0ff, #3f2b96);
+}
+h1 {
+  color: white;
+  font-size: 60px;
+}
